@@ -1,4 +1,4 @@
-# Mid-Lane Advantage Tracker 🎮📊
+# Mid-Lane League Of Legends Advantage Tracker 🎮📊
 
 ## Overview
 An automated End-to-End Data Pipeline (ETL) designed to extract, transform, and analyze live match telemetry from the League of Legends API. The project focuses on Mid-lane matchups to identify the correlation between resource generation (Gold, Minions) and match outcomes.
@@ -15,3 +15,4 @@ The Python script is triggered daily. It fetches the latest 20 matches of a spec
 
 ## Libraries Used
 See `requirements.txt` for the full list of dependencies.
+![Dashboard Preview](dashboard_preview.png)
